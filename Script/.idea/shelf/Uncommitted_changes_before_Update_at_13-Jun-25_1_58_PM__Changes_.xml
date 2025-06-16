@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_Update_at_13-Jun-25_1_58_PM_[Changes]" date="1749819491751" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-Jun-25_1_58_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 13-Jun-25 1:58 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="../DB/SmartQuizGen.db" />
+    <option name="AFTER_PATH" value="../DB/SmartQuizGen.db" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-Jun-25_1_58_PM_[Changes]/SmartQuizGen.db" />
+  </binary>
+</changelist>
